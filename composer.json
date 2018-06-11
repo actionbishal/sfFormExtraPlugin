@@ -1,5 +1,5 @@
 {
-    "name": "aramisauto/sfformextraplugin",
+    "name": "sf-form-extra-plugin",
     "type": "symfony1-plugin",
     "description": "",
     "keywords": ["symfony", "plugin"],
