@@ -1,0 +1,10 @@
+{
+    "name": "aramisauto/sfformextraplugin",
+    "type": "symfony1-plugin",
+    "description": "",
+    "keywords": ["symfony", "plugin"],
+    "license": "MIT",
+    "require": {
+
+    }
+}
